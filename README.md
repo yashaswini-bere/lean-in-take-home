@@ -107,3 +107,5 @@ This project was built with Claude as a coding partner. Claude profiled the data
 - Matching tags against inferred interests produced recommendations that were hard to justify, so that combination was removed.
 - Explanations began too long for a member to skim, so they were tightened and a length check was added to the tests.
 - Profiling showed membership dates often predate the member's account, so those dates aren't used as a signal.
+
+I ran the project and its tests locally on Windows and checked the results for the planted scenarios.
